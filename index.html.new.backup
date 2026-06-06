@@ -8,7 +8,7 @@
        SEO: Primary Meta Tags
        Title ≤60 chars | Description ≤160 chars | High-intent keywords
   ════════════════════════════════════════════════════════════════ -->
-  <title>Muhammed Rihan | Expert Mobile Phone Technician &amp; Micro-Soldering Specialist</title>
+  <title>Expert Mobile Phone Technician | Micro-Soldering &amp; Logic Board Repair</title>
   <meta name="description" content="Muhammed Rihan is an Expert mobile phone technician specialising in micro-soldering, CPU/EMMC reballing, logic board repair &amp; data recovery. 2,500+ devices fixed. 97% success rate." />
   <meta name="keywords" content="muhammed rihan, mobile phone technician, micro-soldering specialist, logic board repair, CPU reballing, EMMC reballing, water damage repair, iPhone board repair, Samsung board repair, data recovery, SMD rework, short circuit tracing, PMIC repair, firmware flashing" />
   <meta name="author" content="Muhammed Rihan" />
@@ -21,7 +21,7 @@
   ════════════════════════════════════════════════════════════════ -->
   <meta property="og:type"        content="website" />
   <meta property="og:site_name"   content="Expert Mobile Device Technician" />
-  <meta property="og:title"       content="Muhammed Rihan | Expert Mobile Phone Technician &amp; Micro-Soldering Specialist" />
+  <meta property="og:title"       content="Expert Mobile Phone Technician | Micro-Soldering &amp; Logic Board Repair" />
   <meta property="og:description" content="Expert mobile phone technician specialising in micro-soldering, CPU/EMMC reballing, logic board repair &amp; data recovery. 2,500+ devices fixed. 97% success rate." />
   <meta property="og:url"         content="https://muhammed-rihan.vercel.app" />
   <meta property="og:image"       content="https://muhammed-rihan.vercel.app/avatar.png" />
@@ -34,7 +34,7 @@
        SEO: Twitter / X Card — controls link previews on Twitter/X
   ════════════════════════════════════════════════════════════════ -->
   <meta name="twitter:card"        content="summary_large_image" />
-  <meta name="twitter:title"       content="Muhammed Rihan | Expert Mobile Phone Technician &amp; Micro-Soldering Specialist" />
+  <meta name="twitter:title"       content="Expert Mobile Phone Technician | Micro-Soldering &amp; Logic Board Repair" />
   <meta name="twitter:description" content="Micro-soldering, CPU/EMMC reballing, logic board repair &amp; data recovery specialist. 2,500+ devices fixed. 97% success rate." />
   <meta name="twitter:image"       content="https://muhammed-rihan.vercel.app/avatar.png" />
   <meta name="twitter:image:alt"   content="Expert Mobile Device Technician" />
@@ -153,35 +153,9 @@
         "@type": "WebSite",
         "@id": "https://muhammed-rihan.vercel.app/#website",
         "url": "https://muhammed-rihan.vercel.app/",
-        "name": "Muhammed Rihan — Expert Mobile Device Technician",
-        "description": "Official portfolio of Muhammed Rihan, professional mobile phone technician specialising in micro-soldering and logic board repair.",
-        "inLanguage": "en"
-      },
-      {
-        "@type": "Person",
-        "@id": "https://muhammed-rihan.vercel.app/#person",
         "name": "Muhammed Rihan",
-        "alternateName": ["Muhammed Rihan Tech", "Rihan Mobile Technician"],
-        "url": "https://muhammed-rihan.vercel.app/",
-        "image": "https://muhammed-rihan.vercel.app/avatar.png",
-        "jobTitle": "Expert Mobile Phone Technician & Micro-Soldering Specialist",
-        "description": "Muhammed Rihan is a professional mobile phone technician specialising in micro-soldering, CPU and EMMC reballing, logic board repair, and advanced data recovery.",
-        "email": "muhammedrihan288@gmail.com",
-        "telephone": "+91-92078-89141",
-        "sameAs": [
-          "https://www.instagram.com/_ff__frock_",
-          "https://wa.me/919207889141",
-          "https://muhammed-rihan.vercel.app/"
-        ],
-        "knowsAbout": [
-          "Micro-Soldering", "Logic Board Repair", "CPU EMMC Reballing",
-          "BGA Rework", "Short Circuit Tracing", "Liquid Damage Restoration",
-          "Firmware Flashing", "Data Recovery", "iPhone Repair",
-          "Samsung Repair", "iPad Logic Board Repair"
-        ],
-        "worksFor": {
-          "@id": "https://muhammed-rihan.vercel.app/#business"
-        }
+        "description": "Portfolio of a professional mobile phone technician specialising in micro-soldering and logic board repair.",
+        "inLanguage": "en"
       },
       {
         "@type": "BreadcrumbList",
@@ -1253,8 +1227,8 @@
   ═══════════════════════════════════════════════════════════════ -->
   <header role="banner">
   <nav class="nav" id="nav" aria-label="Primary navigation">
-    <a href="#hero" class="nav__logo" aria-label="Muhammed Rihan — Expert Mobile Device Technician, back to top">
-      <span aria-hidden="true">/*</span> RIHAN.TECH <span aria-hidden="true">*/</span>
+    <a href="#hero" class="nav__logo" aria-label="Expert Mobile Device Technician — back to top">
+      <span aria-hidden="true">/*</span> TECH_SPECIALIST <span aria-hidden="true">*/</span>
     </a>
     <ul class="nav__links" id="navLinks" role="list">
       <li><a href="#skills"  aria-label="Jump to Technical Skills section">Skills</a></li>
@@ -1292,8 +1266,7 @@
 
       <!-- LEFT: all existing text content -->
       <div class="hero__content">
-        <!-- SEO: Name appears as visible text near H1 — critical for personal name search ranking -->
-        <p class="hero__label">Muhammed Rihan · Mobile Device Repair Specialist<span class="blink">_</span></p>
+        <p class="hero__label">Mobile Device Repair Specialist<span class="blink">_</span></p>
 
         <!-- SEO: Single H1 per page. id links to aria-labelledby on section.
              itemprop reinforces JSON-LD with inline microdata.       -->
@@ -1306,7 +1279,7 @@
 
         <!-- itemprop="description" reinforces the JSON-LD service description -->
         <p class="hero__sub" itemprop="description">
-          <strong>Muhammed Rihan</strong> — Precision <strong>Micro-Soldering</strong> · <strong>Logic Board Repair</strong> ·
+          Precision <strong>Micro-Soldering</strong> · <strong>Logic Board Repair</strong> ·
           <strong>Advanced Hardware Troubleshooting</strong>.<br>
           Breathing life back into devices others declare unrepairable.
         </p>
@@ -1358,7 +1331,7 @@
             <img
               id="avatarImg"
               src="./avatar.png"
-              alt="Muhammed Rihan — expert mobile phone technician and micro-soldering specialist"
+              alt="Expert mobile phone technician and micro-soldering specialist"
               width="340"
               height="340"
               loading="eager"
@@ -1479,12 +1452,12 @@
   <!-- ── Contact Strip ──────────────────────────────────────────────── -->
   <section class="contact-strip reveal" id="contact" aria-labelledby="contactHeading">
     <div>
-      <!-- SEO: H2 on contact section — name in aria-label for screen readers + crawlers -->
-      <h2 class="contact-strip__title" id="contactHeading" aria-label="Contact Muhammed Rihan — Got a Broken Device?">
+      <!-- SEO: H2 on contact section — completes logical H1→H2→H2→H2 hierarchy -->
+      <h2 class="contact-strip__title" id="contactHeading">
         Got a <span>Broken</span><br>Device?
       </h2>
       <p class="contact-strip__sub">
-        Contact <strong>Muhammed Rihan</strong> — No fix, no fee. Free diagnostics on every job.
+        No fix, no fee. Free diagnostics on every job.
       </p>
     </div>
     <div class="contact-strip__cta">
@@ -1515,8 +1488,7 @@
   <!-- SEMANTIC: role="contentinfo" is implicit on <footer> at page level -->
   <footer role="contentinfo" aria-label="Site footer with contact information">
     <div class="footer__brand">
-      <!-- SEO: Real name in footer = third name occurrence on page, reinforces personal name search -->
-      <strong itemprop="name">Muhammed Rihan</strong>
+      <strong itemprop="name">TECH_SPECIALIST</strong>
       <span itemprop="jobTitle">Mobile Device Technician</span> · Available for hire
     </div>
 
@@ -1550,7 +1522,7 @@
     </nav>
 
     <p class="footer__copy">
-      <span aria-label="Copyright 2025">© 2025</span> Muhammed Rihan — Mobile Device Technician<br>
+      <span aria-label="Copyright 2025">© 2025</span> Mobile Device Technician<br>
       Built with precision.
     </p>
   </footer>
